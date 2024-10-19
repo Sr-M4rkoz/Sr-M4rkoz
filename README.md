@@ -6,10 +6,10 @@
 
 ## Informações:
 
-<a href="https://www.google.com">
+<a href="">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="">
+<a href="https://github.com/Sr-M4rkoz">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
 </a>
