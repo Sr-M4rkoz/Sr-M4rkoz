@@ -11,5 +11,5 @@
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark" 
-     onmouseover="this.style.cursor = 'pointer';"
-     onclick="return false;">
+     style="cursor: pointer; /* Muda o cursor para indicar um link */
+      pointer-events: none;">
