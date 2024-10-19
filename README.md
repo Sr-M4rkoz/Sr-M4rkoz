@@ -14,6 +14,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
+![abc](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
 
 [Image](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
