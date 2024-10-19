@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/Sr-M4rkoz">
- <img src="https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark" 
+     onmouseover="this.style.cursor = 'pointer';"
+     onclick="return false;">
 </a>
-
-![Sr-M4rkoz GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=radical)
