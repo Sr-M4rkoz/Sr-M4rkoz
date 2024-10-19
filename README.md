@@ -14,4 +14,4 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=radical)
+![Sr-M4rkoz GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=radical)
