@@ -11,9 +11,7 @@
 </a>
 
 <a href="https://github.com/Sr-M4rkoz">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
+ <img src="https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark"/>
 </a>
 
 ![abc](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
-
-![Image](https://github-readme-stats.vercel.app/api?username=Sr-M4rkoz&show_icons=true&theme=dark)
